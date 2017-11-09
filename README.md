@@ -5,7 +5,7 @@
 
 If you are interested in the full document then please do not hesitate to contact me via E-Mail: marius.lange@t-online.de
 
-The MATLAB implementation provided here, considers the subproblem which is typicially encountered in a Cubic Regularisation-type algortihm. It contains MATLAB functions to create, solve and visualise the cubic subproblem (CSP). The main functions are:
+The MATLAB implementation provided here considers the subproblem which is typicially encountered in a Cubic Regularisation-type algortihm. It contains MATLAB functions to create, solve and visualise the cubic subproblem (CSP). The main functions are:
 
 ## Create_Problem.m
 Creates a CSP of given dimension and condition number. More options are possible, such as positive definiteness, hard-case, etc.
